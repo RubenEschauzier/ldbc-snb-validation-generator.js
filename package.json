@@ -1,6 +1,6 @@
 {
   "name": "@rubeneschauzier/ldbc-snb-validation-generator",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "packageManager": "yarn@1.22.22",
   "description": "Generates SPARQL validation queries and results",
   "author": "Ruben Taelman <rubensworks@gmail.com>",
