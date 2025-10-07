@@ -5667,10 +5667,10 @@ source-map@^0.6.0, source-map@^0.6.1:
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.6.1.tgz#74722af32e9614e9c287a8d0bbde48b5e2f1a263"
   integrity sha512-UjgapumWlbMhkBgzT7Ykc5YXUT46F0iKu8SGXq0bcwP5dz/h0Plj6enJqjz1Zbq2l5WaqYnrVbwWOWMyF3F47g==
 
-"sparql-query-parameter-instantiator@npm:@rubeneschauzier/sparql-query-parameter-instantiator":
-  version "2.7.0"
-  resolved "https://registry.yarnpkg.com/@rubeneschauzier/sparql-query-parameter-instantiator/-/sparql-query-parameter-instantiator-2.7.0.tgz#f625531a44c29ffff75c01c3d83b8ce27b54c63f"
-  integrity sha512-sWVcHXCeIS5fLAnkL9IUOGyby0746oSSLXmUnsc6kIcwwXq/+Ugy7XCRvX1STwTSCADt6398CLt0LB6GPw8doA==
+"sparql-query-parameter-instantiator@npm:@rubeneschauzier/sparql-query-parameter-instantiator@^2.7.1":
+  version "2.7.1"
+  resolved "https://registry.yarnpkg.com/@rubeneschauzier/sparql-query-parameter-instantiator/-/sparql-query-parameter-instantiator-2.7.1.tgz#c28190cebd77c6b9611806dc8ac421d8b131149b"
+  integrity sha512-qxv2dvJXFCPcX7nlgM1GMMP+Xr5HQAy5lc6JyiAeqoFkomxvjyjeevr+LC8h1xvbqhcqUBzz373QyoEFbIAf1Q==
   dependencies:
     "@rdfjs/types" "*"
     "@types/sparqljs" "*"
